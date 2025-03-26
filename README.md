@@ -12,7 +12,7 @@ Check out a video that I made to portray what my passion is and why I chose to p
 - ⚡ Fun fact: I am half Syrian.
 - 📫 How to reach me:
 <br> <a href="https://www.facebook.com/alecxander.andaya.1"><img src="https://user-images.githubusercontent.com/65760047/157783682-710f3014-0262-44b3-bb0b-9095b323b737.png" width="30" height="30"></a> <a href="https://www.youtube.com/channel/UCsoexX6uxe4Z07nNOajWC2A"><img src="https://user-images.githubusercontent.com/65760047/157784405-9d36634e-f2b0-431b-b302-5d39193df2ab.png" width="30" height="30"></a> 
-<a href="https://github.com/alecxanderBlade"><img src="https://user-images.githubusercontent.com/65760047/157784687-9f817d4f-5ebe-41c9-8be3-1dfa91a7dd16.png" width="30" height="30"></a> 
+<a href="https://github.com/alecxanderblade890"><img src="https://user-images.githubusercontent.com/65760047/157784687-9f817d4f-5ebe-41c9-8be3-1dfa91a7dd16.png" width="30" height="30"></a> 
 <br>
 :computer: Here are some of my skills:
 <p><img src="https://user-images.githubusercontent.com/65760047/157792612-c5225a3b-5885-4988-8a33-fb190e90339e.png" width ="50" height ="50"> 
